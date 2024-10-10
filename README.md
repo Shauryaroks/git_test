@@ -1,5 +1,3 @@
 # git_test
-amogus bongonbong
-
-hahah
-ggg
+testing out gitflow 
+following the odin project
