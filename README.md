@@ -1,3 +1,4 @@
 # git_test
-testing out gitflow \n
+testing out gitflow 
+
 following the odin project
